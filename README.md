@@ -95,7 +95,7 @@ The script applies a simple rate limit and minimum segment distance to prevent o
 ## Author
 
 - Lansari Fedi — lansarifedi7@gmail.com
-- Hmidi Yesser — yesser.hmidi1512@gmail.com
+- Hmidi Yesser — yesser.hmidi3@gmail.com
 ## License
 
 GNU General Public License v3.0 (GPL‑3.0)
